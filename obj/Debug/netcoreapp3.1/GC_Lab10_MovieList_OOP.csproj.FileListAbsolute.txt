@@ -1,0 +1,13 @@
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\bin\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.exe
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\bin\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.deps.json
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\bin\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.runtimeconfig.json
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\bin\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.runtimeconfig.dev.json
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\bin\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.dll
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\bin\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.pdb
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\obj\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\obj\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\obj\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.AssemblyInfo.cs
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\obj\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\obj\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.dll
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\obj\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.pdb
+C:\Users\Justin\source\repos\GC_Lab10_MovieList_OOP\GC_Lab10_MovieList_OOP\obj\Debug\netcoreapp3.1\GC_Lab10_MovieList_OOP.genruntimeconfig.cache
