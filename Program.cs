@@ -43,6 +43,9 @@ namespace GC_Lab10_MovieList_OOP
             movieList.Add(new Movie("National Treasure", "drama", 46, true));
             movieList.Add(new Movie("Ghost Rider", "scifi", 26, true));
             movieList.Add(new Movie("Bangkok Dangerous", "drama", 8, true));
+            movieList.Add(new Movie("The Rock", "drama", 66, true));
+            movieList.Add(new Movie("Gone in 60 Seconds", "drama", 25, true));
+
 
             return movieList;
         }
